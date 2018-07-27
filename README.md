@@ -1,2 +1,2 @@
 # automatingaws
-AWS Automation
+AWS Automation repository
